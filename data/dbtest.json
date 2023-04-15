@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "item": "Go to store"
+        },
+        {
+            "id": 2,
+            "item": "Write essay"
+        },
+        {
+            "id": 3,
+            "item": "Go for run"
+        }
+    ]
+}
